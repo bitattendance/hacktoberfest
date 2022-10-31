@@ -150,6 +150,32 @@ to explore life. Also, Python and Django Developer
 - Bio: 5th semester IT Undergrad. Machine Learning enthusiast. Black coffee <3
 - GitHub: [Akshit Kharbanda](https://github.com/akshit04)
 
+# Your Name
+
+### Location
+
+Your City/Country
+
+### Academics
+
+Your School
+
+### Interests
+
+- Some Things You Like
+
+### Development
+
+- Inventor of the My Pillow
+
+### Projects
+
+- [My Project](GitHub Link) Short Description
+
+### Profile Link
+
+[Your Name](GitHub Link)
+
 #### Name: [Aldo Cano](https://github.com/aldocano)
 - Place: Tirana, Albania
 - Bio: A bug is never just a mistake...
